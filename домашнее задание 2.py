@@ -1,0 +1,5 @@
+a1=input ("Dryopithecus ")
+a2=input ("Australopithecus ")
+a3=input ("Homo erectus ")
+a4=input ("Homo sapiens ")
+print(a1,a2,a3,a4,sep="=> ")
